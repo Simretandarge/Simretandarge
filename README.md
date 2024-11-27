@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Simret Andarge – Data Scientist | 4+ Years of Experience in Data Analytics & Machine Learning  
+# 👋 Hi, I'm Simret Andarge – Data Scientist | 3+ Years of Experience in Data Analytics & Machine Learning  
 
 🔍 **Exploring Insights Hidden in Data**  
 With over four years of hands-on experience, I specialize in building data-driven solutions that unlock value from complex datasets. Passionate about using **statistical models**, **machine learning**, and **data storytelling** to solve real-world challenges and guide decision-making.
